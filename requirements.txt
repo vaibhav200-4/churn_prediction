@@ -1,6 +1,9 @@
-streamlit
 tensorflow==2.15.0
-numpy
-pandas
+pandas 
+numpy 
 scikit-learn
-joblib
+tensorboard
+matplotlib
+streamlit
+scikeras
+import pickle
